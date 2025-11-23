@@ -58,7 +58,7 @@
   <li>💬 Feedback — opens Google Form</li>
   <li>❌ Quit — fully closes the app</li>
   <p align="center">
-  <img src="https://github.com/user-attachments/assets/2d5f69c1-6e7b-4bc2-a6f1-bb9e27cf88a8" alt="Demo GIF" />
+  <img src="https://github.com/user-attachments/assets/2d5f69c1-6e7b-4bc2-a6f1-bb9e27cf88a8](https://github.com/HancreHHH/SimpleDeskClock/blob/archive/testing.gif" alt="Demo GIF" />
 </p>
 </ul>
 
