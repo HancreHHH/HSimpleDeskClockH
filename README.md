@@ -1,8 +1,10 @@
-THIS IS SimpleDeskClock
-
-Just a random person that want to make a free clock on mac desktop!
-
-EAST TO USE, JUST DOWNLOAD!!! YOU WILL FIGER IT OUT lol :)
+<h1 align="center">
+  <br>
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLScu-GffqT95sQNS_2FerJQQ_uK-P0bxbGC9zXIQU_5irBTAWQ/viewform"><img src="https://framerusercontent.com/images/RFK4vs0kn8pRMuOO58JeyoemXA.png?scale-down-to=256" alt="Boring Notch" width="150"></a>
+  <br>
+  SimpleDeskClock
+  <br>
+</h1>
 
 INSTALL: Download SimpleDeskClock2.2.dmg
 
