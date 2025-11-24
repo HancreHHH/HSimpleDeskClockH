@@ -48,6 +48,10 @@
   <li>📁 Drag into <strong>Applications</strong> folder</li>
   <li>🚀 Launch the app → menu bar icon appears</li>
 </ol>
+
+
+
+<h2 style="font-family: 'Inter','SF Pro', Arial;">🛠 Controls</h2>
 > [!IMPORTANT]
 > We don't have an Apple Developer account yet. The application will show a popup on first launch that the app is from an unidentified developer.
 > 1. PLEASE Click **OK** to close the popup.
@@ -56,9 +60,6 @@
 > 4. Confirm your choice if prompted.
 >
 > THIS IS THE ONLY TIME YOU NEED TO DO THIS!
-
-
-<h2 style="font-family: 'Inter','SF Pro', Arial;">🛠 Controls</h2>
 <ul style="font-family: 'Inter','SF Pro', Arial; line-height: 1.6;">
   <li>🕒 Click menu bar icon to open settings</li>
   <li>📌 Freeze — locks clock in place</li>
